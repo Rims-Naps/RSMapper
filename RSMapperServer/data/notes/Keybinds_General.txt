@@ -1,0 +1,12 @@
+[w][a][s][d] - Move camera forward/left/backward/right
+Shift+[w][a][s][d] - Move selected tile forward/left/backward/right
+
+[space] - Go up one plane
+[pg up] - Go up one plane
+
+[alt] - Go down one plane
+[pg dwn] - Go down one plane
+
+[tab] - Toggle load surrounding regions
+
+[q] - Mouse-Select objects mode (select an object to lookup in object definitions by directly clicking on it)

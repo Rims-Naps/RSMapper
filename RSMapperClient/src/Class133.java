@@ -1,0 +1,25 @@
+public class Class133 {
+   static int anInt1685;
+   static Class56 aClass56_1686 = new Class56();
+   static OutgoingPacket aClass318_1687 = new OutgoingPacket(72, -2);
+   protected int packetId;
+
+   public static void method1566(int i) {
+      aClass318_1687 = null;
+      if (i != 72) {
+         aClass318_1687 = null;
+      }
+
+      aClass56_1686 = null;
+   }
+
+   @Override
+   public final String toString() {
+      ++anInt1685;
+      throw new IllegalStateException();
+   }
+
+   Class133(int i, int i_0_) {
+      this.packetId = i;
+   }
+}

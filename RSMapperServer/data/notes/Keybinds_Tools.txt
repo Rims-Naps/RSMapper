@@ -1,0 +1,28 @@
+[e] - All tools. Performs whatever action is selected in the double-click action drop down.
+[1-6] - Selects the tool of the respective number
+
+** Single Tool **
+[c] - Copy (Dependent on whether editing objects or properties)
+[v] - Paste (Dependent on whether editing objects or properties)
+[r] - Rotate + 1 (Dependent on whether editing objects or properties)
+[x] - Remove object (Removes the type that is input, or all if setting is enabled)
+
+** Brush Tool **
+[c] - Copy objects
+[v] - Paste objects
+[x] - Remove objects (Removes the type that is input, or all if setting is enabled)
+
+** Height Tool **
+[x] - RAMP MODE: Clear points
+
+** Bridge Tool **
+[x] - Clear points
+
+** Shape Tool **
+[f] - flip shape
+[c] - Copy points from shape on tile
+[x] - Clear points
+
+** Light FX Tool **
+[c] - Copy effect on tile
+[v] - Paste copied effect

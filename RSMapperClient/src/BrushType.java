@@ -1,0 +1,11 @@
+public enum BrushType {
+   SQUARE,
+   RHOMBUS,
+   CIRCLE,
+   LINE_X,
+   LINE_Y,
+   CHECKERED,
+   SQUARE_BORDER,
+   RHOMBUS_BORDER,
+   CIRCLE_BORDER;
+}

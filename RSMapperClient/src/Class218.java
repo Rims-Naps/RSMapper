@@ -1,0 +1,61 @@
+public class Class218 {
+   protected int anInt2554;
+   protected int anInt2555;
+   protected int anInt2556;
+   protected int anInt2557;
+   static int anInt2558;
+   protected int anInt2559;
+   static Class123 aClass123_2560 = new Class123();
+   protected Class218 aClass218_2561;
+   protected Class336 aClass336_2562;
+   static Index index15;
+   static int anInt2564;
+   static int anInt2565;
+   static Class123 aClass123_2566 = new Class123();
+   static Class123[] aClass123Array2567 = new Class123[]{aClass123_2566, aClass123_2560};
+   static Node_Sub50 aNode_Sub50_2568 = new Node_Sub50(0, 0);
+   static int anInt2569;
+   static OutgoingPacket aClass318_2570 = new OutgoingPacket(55, 7);
+
+   final Class249 method2075(byte b) {
+      if (b != -57) {
+         method2077(null, null, false);
+      }
+
+      ++anInt2564;
+      return Class320_Sub1.method3680(1, this.anInt2555);
+   }
+
+   public static void method2076(byte b) {
+      int i = 34 / ((22 - b) / 54);
+      aClass123Array2567 = null;
+      index15 = null;
+      aClass318_2570 = null;
+      aNode_Sub50_2568 = null;
+      aClass123_2560 = null;
+      aClass123_2566 = null;
+   }
+
+   static final void method2077(d var_d, Index class302, boolean bool) {
+      ++anInt2565;
+      Class376.aD4661 = var_d;
+      Class188_Sub2_Sub2.aClass302_9361 = class302;
+      if (bool) {
+         index15 = null;
+      }
+   }
+
+   Class218(int i, int i_0_) {
+      this.anInt2555 = i;
+      this.anInt2554 = i_0_;
+   }
+
+   final Class218 method2078(boolean bool, int i) {
+      if (bool) {
+         aNode_Sub50_2568 = null;
+      }
+
+      ++anInt2558;
+      return new Class218(this.anInt2555, i);
+   }
+}
