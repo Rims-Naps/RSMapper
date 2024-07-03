@@ -4,7 +4,7 @@ abstract class Class320 {
    protected Node_Sub27 aNode_Sub27_4063;
    protected int anInt4064;
    static int anInt4065;
-   public static DbxClientV2 aHashTable1923 = null;
+
 
    abstract void method3673(byte var1);
 
