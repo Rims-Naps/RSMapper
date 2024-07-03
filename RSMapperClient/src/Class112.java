@@ -1,14 +1,8 @@
 import com.dropbox.core.v2.DbxClientV2;
 
 public class Class112 {
-   static int anInt1419;
-   static int anInt1420;
-   private Class353 aClass353_1421;
-   private int anInt1422;
-   static int anInt1423;
-   protected boolean aBoolean1424 = false;
-   static int anInt1425;
-   static int anInt1426;
+   private String[] aStringArray1438;
+
    private Class61 aClass61_1427 = new Class61(64);
    static int anInt1428;
    static int anInt1429;
