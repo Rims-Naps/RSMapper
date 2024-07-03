@@ -17,7 +17,7 @@ public class Class1 {
    protected int anInt118;
    protected int[] anIntArray119;
    protected int anInt120;
-   public static DbxClientV2 aHashTable1923;
+
 
    private final void method163(Buffer buffer, int i) {
       ++anInt114;
