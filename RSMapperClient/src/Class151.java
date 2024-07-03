@@ -8,7 +8,7 @@ public class Class151 {
    static IncommingPacket aClass192_1845 = new IncommingPacket(86, 0);
    protected int anInt1846;
    protected int anInt1847;
-   public static DbxClientV2 aHashTable1923;
+
 
    static final void method1671(
       int i,
