@@ -1,7 +1,3 @@
-Here is the cleaned-up README file:
-
----
-
 # RSMapper
 
 [Download Link and Information](https://www.dropbox.com/scl/fi/enw0g1t76gm9w7wb0vp7j/Grims_667_RSMapper.rar?rlkey=kihhhp66w1kneeu4aicj5opqu&st=2o2mrosq&dl=0)
@@ -113,7 +109,3 @@ public class InterfaceManager {
 
 ## Conclusion
 The explanations provided above are speculative and based on the current limited understanding of the system. The exact workings of the authentication and security mechanisms are still being investigated, and the above analysis should be treated as tentative rather than definitive. Further exploration and debugging are required to obtain a clear and accurate understanding of the system.
-
----
-
-This cleaned-up README now includes the proper directory paths to all mentions of the file names within the Java project. If you need further refinements or specific adjustments, feel free to ask!
